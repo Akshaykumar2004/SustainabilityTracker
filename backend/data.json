@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "action": "Carpooling",
+    "date": "2025-01-08",
+    "points": 50
+  },
+  {
+    "id": 2,
+    "action": "test action",
+    "date": "2025-02-10",
+    "points": 30
+  }
+]
