@@ -2,6 +2,8 @@
 
 Full-stack application to track sustainability actions using Node.js/Express backend and Angular frontend.
 
+[Click here to see Live Preview](https://sustainability-tracker-one.vercel.app/)
+
 ## Project Structure
 ```
 sustainability-tracker/

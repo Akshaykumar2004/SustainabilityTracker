@@ -13,7 +13,10 @@ export interface SustainabilityAction {
   providedIn: 'root'
 })
 export class SustainabilityService {
-  private apiUrl = 'https://backend-sustainability-9og8n9fkl-akshaykumar2004s-projects.vercel.app/api/actions';
+  private apiUrl = 'https://backend-sustainability.vercel.app/api/actions'; 
+  // if you want to test your local server, use this url, and mark the above line as a comment
+  // private apiUrl = 'https://localhost:3000/api/actions'; 
+
 
   constructor(private http: HttpClient) {}
 

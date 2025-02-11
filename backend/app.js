@@ -81,10 +81,11 @@ const app = express();
 
 // ✅ PROPER CORS CONFIGURATION
 app.use(cors({ 
-    origin: "*", // Change to "http://localhost:4200" if needed
+    origin: "*", // Change this to your frontend URL in production
     methods: "GET,POST,OPTIONS",
     allowedHeaders: "Content-Type"
 }));
+
 
 app.use(express.json());
 
