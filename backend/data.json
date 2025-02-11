@@ -10,5 +10,17 @@
     "action": "test action",
     "date": "2025-02-10",
     "points": 30
+  },
+  {
+    "id": 3,
+    "action": "test action",
+    "date": "2025-02-20",
+    "points": 15
+  },
+  {
+    "id": 4,
+    "action": "again test",
+    "date": "2025-02-13",
+    "points": 10
   }
 ]
